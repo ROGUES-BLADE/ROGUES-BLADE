@@ -1,4 +1,4 @@
-# ●▬▬▬▬▬▬▬▬▬▬๑۩ROGUES BLADE۩๑▬▬▬▬▬▬▬▬▬▬●
+# ●▬▬▬▬▬▬▬▬▬๑۩ROGUES BLADE۩๑▬▬▬▬▬▬▬▬▬●
 
 ### Hi! I'm Sloane, an amateur learning Java! My pronouns are she/they and im looking to make a minecraft mod called *The Outer Ring*
 
